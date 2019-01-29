@@ -1,0 +1,10 @@
+# m12i_res7100: LSR 2
+# coordinates of a local standard of rest (LSR)
+# positions and velocities are:
+#   relative to the galaxy center
+#   aligned with the galaxys principal axes
+#   in cartesian units (x, y, z), (v_x, v_y, v_z)
+# velocity is median of 94 star particles within 200 pc of position
+# star particle nearest to position has array index = 11404937, dist = 0.016 kpc
+# position [kpc] velocity [km/s]
+7.101408, -4.100000, 0.000000, -87.273514, -186.856659, -9.460751
